@@ -15,6 +15,8 @@ https://javafx-jira.kenai.com/browse/RT-37093
 
 ## 2. 27092
 
+https://javafx-jira.kenai.com/browse/RT-37092
+
 1. Run `bug_37092/Main`
 2. Put you cursor to the position of "your cursor here |"
 3. Press arrow 'down' key

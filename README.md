@@ -13,7 +13,7 @@ https://javafx-jira.kenai.com/browse/RT-37093
 1. Run `bug_37093/Main`
 2. Press <kbd>cmd</kbd> + <kbd>=</kbd> on the textarea, also other keys, and see the console
 
-## 2. 27092
+## 2. 37092
 
 https://javafx-jira.kenai.com/browse/RT-37092
 
